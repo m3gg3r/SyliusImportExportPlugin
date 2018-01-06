@@ -7,3 +7,5 @@
 
 /etc/build/*
 !/etc/build/.gitkeep
+
+tests/Behat/Resources/fixtures/countries_export.csv
